@@ -8,5 +8,7 @@
 </head>
 <body>
 	<h1>Welcome</h1>
+	<hr>
+	<a href="Login.jsp">Login</a> | <a href="SignUp.jsp">SignUp</a> | <a href="AboutUs.jsp">AboutUs</a> | <a href="Gallery.jsp">Gallery</a>
 </body>
 </html>
